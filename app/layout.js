@@ -17,6 +17,10 @@ export const metadata = {
     type: "website"
   },
   twitter: { card: "summary", title: "大衆酒場ひので｜三軒茶屋", description: "980円飲み放題×深夜営業の大衆居酒屋" }
+  ,
+  verification: {
+    google: "ayHXvvh7MAYyEd0yabm5xYrI98qeN_1bfcLkvUPkbrM"
+  }
 };
 
 export default function RootLayout({ children }) {
